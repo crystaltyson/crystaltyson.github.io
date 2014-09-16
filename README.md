@@ -1,3 +1,3 @@
 crystaltyson.github.io
 ======================
-[www.crystaltyson.com](http://www.crystaltyson.com)
+[www.crystaltyson.github.io.com](http://www.crystaltyson.github.io.com)
